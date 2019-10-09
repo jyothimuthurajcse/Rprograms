@@ -1,8 +1,8 @@
-BuffTail<-c(10,1,87,5,12)
-Gardenbee<-c(8,3,19,6,4)
+BuffTail<-c(10,1,37,5,12)
+Gardenbee<-c(8,3,9,6,4)
 RedTail<-c(18,9,12,4,6)
-Carderbee<-c(8,27,6,32,23)
-HoneyBee<-c(12,13,161,9,100)
+Carderbee<-c(8,277,6,32,23)
+HoneyBee<-c(12,13,16,9,10)
 beeframe<-data.frame(BuffTail,Gardenbee,RedTail,Carderbee,HoneyBee)
 beeframe
 names<-c("Thistle","Vipers","GoldenRain","Yellowalfala","blackberry")
